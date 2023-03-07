@@ -1,0 +1,27 @@
+.seccion {
+    background-color: bisque;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.parrafo {
+    background-color: cornflowerblue;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.parrafo.dragging {
+    opacity: 0, 3;
+}
+
+.imagen-fantasma {
+    
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position:absolute;
+    left: -100vw
+}
+.item {
+    width: 100px;
+}
